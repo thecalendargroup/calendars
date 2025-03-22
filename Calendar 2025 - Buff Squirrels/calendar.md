@@ -2,7 +2,7 @@
 
 ## January 2025
 
-![Logo](images/january-2025.webp)
+![Image](january-2025.webp)
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
@@ -17,7 +17,7 @@ Important Dates:
 
 ## February 2025
 
-![Logo](images/february-2025.webp)
+![Image](february-2025.webp)
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
@@ -32,7 +32,7 @@ Important Dates:
 
 ## March 2025
 
-![Logo](images/march-2025.webp)
+![Image](march-2025.webp)
 
 | Sunday | Monday | Tuesday | Wednesday | Thursday | Friday | Saturday |
 |--------|--------|---------|-----------|----------|--------|----------|
