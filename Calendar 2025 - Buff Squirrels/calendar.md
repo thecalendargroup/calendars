@@ -124,7 +124,6 @@ Important Dates:
 | 31     |        |         |           |          |        |          |
 
 Important Dates:
- - 
 
 ## September 2025
 
